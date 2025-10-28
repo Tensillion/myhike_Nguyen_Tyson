@@ -39,7 +39,6 @@ class SiteNavbar extends HTMLElement {
                                 <!-- populated by JS -->
                             </div>
                         </div>
-
                     </div>
                 </div>
             </nav>
